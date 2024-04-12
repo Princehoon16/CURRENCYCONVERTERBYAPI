@@ -1,1 +1,1 @@
-<img src="" alt="Currency image">
+<img src="CurrencyPic.png" alt="Currency image">
